@@ -1,0 +1,11 @@
+#Slide_menu_Open_Anc{
+    -fx-padding: 0px;
+    -fx-background-color: radial-gradient(center 70% 15%,radius 60%,#BBDEFB,#E3F2FD);
+}
+
+*{
+    -fx-border-radius:  0 0 0 0;
+    -fx-background-radius: 0 0 0 0; 
+}
+
+

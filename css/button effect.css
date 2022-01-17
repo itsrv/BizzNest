@@ -1,0 +1,34 @@
+#SlideButton,#NewSlide_Window_Btn,#Report_Slide_Window_btn,#View_Slide_window_btn{
+    -fx-background-color: transparent;
+   -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-border-color: transparent;
+}
+#close_add_new_button{
+    -fx-background-color: transparent;
+   -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-border-color: transparent;
+}
+.button{
+   -fx-background-color: transparent;
+   -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-border-color: #000000;
+    
+}
+#New_Slide_Menu_btn,#Report_Slide_menu_btn,#View_Slide_Menu_btn{
+    -fx-background-color: transparent;
+   -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-border-color: transparent;
+}
+#New_Slide_Menu_btn:focused,#Report_Slide_menu_btn:focused,#View_Slide_Menu_btn:focused{
+    -fx-background-color: transparent;
+   -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+    -fx-border-color: black;
+}
+
+
+
